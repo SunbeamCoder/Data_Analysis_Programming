@@ -1,0 +1,2 @@
+- https://www.kaggle.com/datasets/phuc16102001/vietnam-highschool-exam-2017-to-2021
+- https://www.kaggle.com/code/jacklacey/udemy-course-eda-sql-and-modelling/data?select=database.db
